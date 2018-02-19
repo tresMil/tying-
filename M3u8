@@ -1,0 +1,397 @@
+#EXTM3U
+
+#EXTINF:-1,Azteca 13 mx
+http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
+
+#EXTINF:-1,MULTIMEDIOS 15tv
+https://yt3.ggpht.com/-LWe30Qzzm0Y/AAAAAAAAAAI/AAAAAAAAAAA/VaJO3Zr-BbI/s176-c-k-no-mo-rj-c0xffffff/photo.jpg"group-title="ESTABLES",MULTIMEDIOS
+
+#EXTINF:-1,FOX SPORTS (op2)
+https://yt3.ggpht.com/-lhe59KulWgc/AAAAAAAAAAI/AAAAAAAAAAA/yU4gxEbTiA4/s176-c-k-no-mo-rj-c0xffffff/photo.jpg"group-title="ESTABLES",FOX
+
+#EXTINF:-1,FOXSPORTS 3
+https://yt3.ggpht.com/-lhe59KulWgc/AAAAAAAAAAI/AAAAAAAAAAA/yU4gxEbTiA4/s176-c-k-no-mo-rj-c0xffffff/photo.jpg"group-title="ESTABLES",FOXSPORTS
+
+#EXTINF:-1,Canal ONCE
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+
+#EXTINF:-1,Virgin TV music
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
+
+#EXTINF:-1,DJING CLASSIC HD
+http://www.djing.com/tv/i-05.m3u8
+
+#EXTINF:-1,MI MUSICA HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+
+#EXTINF:-1,IBIZA
+http://www.djing.com/tv/a-04.m3u8
+
+#EXTINF:-1,Dance/EDM
+http://imgur.com/y1YCl0M.png"
+
+#EXTINF:-1,MC Play
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+
+#EXTINF:-1,1HD Music
+http://80.250.191.10:1935/live/livestream1/playlist.m3u8
+
+#EXTINF:-1,CDF Premium (Game Snake Land S.y Land.)
+http://4.bp.blogspot.com/-eE91zA45NDI/U9V2iHtNmjI/AAAAAAAAAFA/H1ZBjqjGaL0/s1600/cdf.png"
+
+#EXTINF:-1,tvg-logo="http://img-youpeliculas.com/images/2014/07/15/nick.png"group-title="ESTABLES"Nickelodeon (Nick)
+http://n-3-24.dcs.redcdn.pl/hls/o2/redefine/nlive/nickelodeon_polska_1/10249/0/tv-ss/live.isml/playlist.m3u8?stream=0&bandwidth=1
+
+#EXTINF:-1,tvg-logo="http://img-youpeliculas.com/images/2014/07/15/nick.png"group-title="ESTABLES"Nickelodeon (op2)
+http://img-youpeliculas.com/images/2014/07/15/nick.png"group-title="ESTABLES",Nickelodeon
+
+#EXTINF:-1,tvg-logo="http://logok.org/wp-content/uploads/2015/01/Cartoon-Network-logo-2004-1024x768.png"group-title="ESTABLES"Cartoon Network
+http://n-3-21.dcs.redcdn.pl/hls/o2/redefine/nlive/CN_HD_1/11395/0/tv-ss/live.isml/playlist.m3u8?stream=0&bandwidth=1
+
+#EXTINF:-1,tvg-logo="https://images.seeklogo.net/2014/07/new-disney-channel-logo.png"group-title="ESTABLES"Disney Channel
+http://n-3-1.dcs.redcdn.pl/hls/o2/redefine/nlive/disney_channel_hd_1/10903/0/tv-ss/live.isml/playlist.m3u8?stream=0&bandwidth=1
+
+#EXTINF:-1,tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-family-e.gif"group-title="ESTABLES" HBO Family
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/livestream.m3u8
+
+#EXTINF:-1,Miami Tv Mexico
+http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/chunklist_w324994460_b1896000.m3u8
+
+#EXTINF:-1,MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:-1,Animation tv (Game Snake Land S. y L.)
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
+#EXTINF:-1,History Channel-82
+http://live.tvplayerlatino.com:80/streaming/src1/wQqis
+
+#EXTINF:-1,Nat Geo-83
+http://live.tvplayerlatino.com:80/streaming/src1/BiEi0
+
+#EXTINF:-1,Nat Geo Wild-84
+http://live.tvplayerlatino.com:80/streaming/src1/i80zc
+
+#EXTINF:-1,Investigation Discovery-85
+http://live.tvplayerlatino.com:80/streaming/src1/QO6g7
+
+#EXTINF:-1,Cinecanal+-86
+http://live.tvplayerlatino.com:80/streaming/src1/XwyF3
+
+#EXTINF:-1,De Pelicula-87
+http://live.tvplayerlatino.com:80/streaming/src1/syIoC
+
+#EXTINF:-1,Space HD-88
+http://live.tvplayerlatino.com:80/streaming/src1/qQIPI
+
+#EXTINF:-1,Studio Universal-89
+http://live.tvplayerlatino.com:80/streaming/src1/CZ6O4
+
+#EXTINF:-1,TCM-90
+http://live.tvplayerlatino.com:80/streaming/src1/7x3AE
+
+#EXTINF:-1,Azteca 7
+http://live.tvplayerlatino.com/streaming/src1/991jv?58afba
+
+#EXTINF:-1,Canal 5
+http://live.tvplayerlatino.com/streaming/src1/74511?58afba
+
+#EXTINF:-1,Las Estrellas -2 Horas
+http://live.tvplayerlatino.com/streaming/src1/cest2?58afba
+
+#EXTINF:-1,Gala TV
+http://live.tvplayerlatino.com/streaming/src1/K1kPK?58afba
+
+#EXTINF:-1,Cartoon Network
+http://live.tvplayerlatino.com/streaming/src1/owHw3
+
+#EXTINF:-1,Nick HD
+http://live.tvplayerlatino.com/streaming/src1/3hujI?58afba
+
+#EXTINF:-1,Nick JR
+http://live.tvplayerlatino.com/streaming/src1/DFX8y?58afba
+
+#EXTINF:-1,Nick Toons
+http://live.tvplayerlatino.com/streaming/src1/mYLvZ?58afba
+
+#EXTINF:-1,Nickelodeon
+http://live.tvplayerlatino.com/streaming/src1/Q7iup?58afba
+
+#EXTINF:-1,Disney Channel
+http://live.tvplayerlatino.com/streaming/src1/yr1Y7?58afba
+
+#EXTINF:-1,Disney Junior
+http://live.tvplayerlatino.com/streaming/src1/BOgKm?58afba
+
+#EXTINF:-1,Disney XD
+http://live.tvplayerlatino.com/streaming/src1/Ow853?58afba
+
+#EXTINF:-1,Boomerang
+http://live.tvplayerlatino.com/streaming/src1/u3H8s?58afba
+
+#EXTINF:-1,Tiin
+http://live.tvplayerlatino.com/streaming/src1/gm6eP?58afba
+
+#EXTINF:-1,Tooncast
+http://live.tvplayerlatino.com/streaming/src1/BNgf7?58afba
+
+#EXTINF:-1,Sony HD
+http://live.tvplayerlatino.com/streaming/src1/wMbZG?58afba
+
+#EXTINF:-1,A&E HD
+http://live.tvplayerlatino.com/streaming/src1/a9C5z?58afba
+
+#EXTINF:-1,Animal Planet
+http://live.tvplayerlatino.com/streaming/src1/bEKOK?58afba
+
+#EXTINF:-1,AXN HD
+http://live.tvplayerlatino.com/streaming/src1/0Jip7?58afba
+
+#EXTINF:-1,Cinemax
+http://live.tvplayerlatino.com/streaming/src1/k8MBl?58afba
+
+#EXTINF:-1,Comedy Central HD
+http://live.tvplayerlatino.com/streaming/src1/EKlNT?58afba
+
+#EXTINF:-1,Distrito Comedia
+http://live.tvplayerlatino.com/streaming/src1/VGGNc?58afba
+
+#EXTINF:-1,El Gourmet
+http://live.tvplayerlatino.com/streaming/src1/WrdYp?58afba
+
+#EXTINF:-1,Fox
+http://live.tvplayerlatino.com/streaming/src1/L0ISp?58afba
+
+#EXTINF:-1,TruTV
+http://live.tvplayerlatino.com/streaming/src1/5pBpi?58afba
+
+#EXTINF:-1,TLC
+http://live.tvplayerlatino.com/streaming/src1/O9Age?58afba
+
+#EXTINF:-1,Tlnovelas
+http://live.tvplayerlatino.com/streaming/src1/3iDkr?58afba
+
+#EXTINF:-1,Warner Channel HD
+http://live.tvplayerlatino.com/streaming/src1/SO0M3?58afba
+
+#EXTINF:-1,TNT Series
+http://live.tvplayerlatino.com/streaming/src1/9HmKY?58afba
+
+#EXTINF:-1,Fashion TV
+http://live.tvplayerlatino.com/streaming/src1/nHCx8v?58afba
+
+#EXTINF:-1,Fox 1 HD
+http://live.tvplayerlatino.com/streaming/src1/NCheB?58afba
+
+#EXTINF:-1,Lifetime
+http://live.tvplayerlatino.com/streaming/src1/v4xin?58afba
+
+#EXTINF:-1,VH1 Classic
+http://live.tvplayerlatino.com/streaming/src1/KW2YQ?58afba
+
+#EXTINF:-1,VH1 HD
+http://live.tvplayerlatino.com/streaming/src1/eriD9?58afba
+
+#EXTINF:-1,MTV
+http://live.tvplayerlatino.com/streaming/src1/hzHHE?58afba
+
+#EXTINF:-1,MTV Hits
+http://live.tvplayerlatino.com/streaming/src1/Q0g4R?58afba
+
+#EXTINF:-1,MTV Live HD
+http://live.tvplayerlatino.com/streaming/src1/aEyNb?58afba
+
+#EXTINF:-1,Telehit
+http://live.tvplayerlatino.com/streaming/src1/LKqfP?58afba
+
+#EXTINF:-1,Discovery Channel
+http://live.tvplayerlatino.com/streaming/src1/hdHdC?58afba
+
+#EXTINF:-1,Discovery Civilization
+http://live.tvplayerlatino.com/streaming/src1/VSngF?58afba
+
+#EXTINF:-1,Discovery H&H
+http://live.tvplayerlatino.com/streaming/src1/gEqGA?58afba
+
+#EXTINF:-1,Discovery Kids
+http://live.tvplayerlatino.com/streaming/src1/Q99yx?58afba
+
+#EXTINF:-1,Discovery SCI
+http://live.tvplayerlatino.com/streaming/src1/LMgwM?58afba
+
+#EXTINF:-1,Discovery Theater HD
+http://live.tvplayerlatino.com/streaming/src1/BCSvX?58afba
+
+#EXTINF:-1,Discovery Turbo
+http://live.tvplayerlatino.com/streaming/src1/uNab0?58afba
+
+#EXTINF:-1,Discovery World
+http://live.tvplayerlatino.com/streaming/src1/N6San?58afba
+
+#EXTINF:-1,History Channel
+http://live.tvplayerlatino.com/streaming/src1/wQqis?58afba
+
+#EXTINF:-1,Nat Geo
+http://live.tvplayerlatino.com/streaming/src1/BiEi0?58afba
+
+#EXTINF:-1,Nat Geo Wild
+http://live.tvplayerlatino.com/streaming/src1/i80zc?58afba
+
+#EXTINF:-1,Investigation Discovery
+http://live.tvplayerlatino.com/streaming/src1/QO6g7?58afba
+
+#EXTINF:-1,Cinecanal
+http://live.tvplayerlatino.com/streaming/src1/l7882?58afba
+
+#EXTINF:-1,Cinecanal+
+http://live.tvplayerlatino.com/streaming/src1/XwyF3?58afba
+
+#EXTINF:-1,De PelÃ­cula
+http://live.tvplayerlatino.com/streaming/src1/syIoC?58afba
+
+#EXTINF:-1,TNT HD
+http://live.tvplayerlatino.com/streaming/src1/5shHX?58afba
+
+#EXTINF:-1,Space
+http://live.tvplayerlatino.com/streaming/src1/ISt6j?58afba
+
+#EXTINF:-1,Space HD
+http://live.tvplayerlatino.com/streaming/src1/qQIPI?58afba
+
+#EXTINF:-1,Studio Universal
+http://live.tvplayerlatino.com/streaming/src1/CZ6O4?58afba
+
+#EXTINF:-1,TCM
+http://live.tvplayerlatino.com/streaming/src1/7x3AE?58afba
+
+#EXTINF:-1,Universal
+http://live.tvplayerlatino.com/streaming/src1/V6Eqb?58afba
+
+#EXTINF:-1,Universal HD
+http://live.tvplayerlatino.com/streaming/src1/nfdUc?58afba
+
+#EXTINF:-1,Golden Edge
+http://live.tvplayerlatino.com/streaming/src1/QfuWa?58afba
+
+#EXTINF:-1,Golden HD
+http://live.tvplayerlatino.com/streaming/src1/PLMti?58afba
+
+#EXTINF:-1,Film Zone HD
+http://live.tvplayerlatino.com/streaming/src1/8VRfG?58afba
+
+#EXTINF:-1,Fox Action
+http://live.tvplayerlatino.com/streaming/src1/QBjs9?58afba
+
+#EXTINF:-1,Fox Cinema
+http://live.tvplayerlatino.com/streaming/src1/rvTcm?58afba
+
+#EXTINF:-1,Fox Classics
+http://live.tvplayerlatino.com/streaming/src1/ulhmA?58afba
+
+#EXTINF:-1,Fox Life
+http://live.tvplayerlatino.com/streaming/src1/7eNpt?58afba
+
+#EXTINF:-1,HBO Family
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w437571733.m3u8?
+
+#EXTINF:-1,AZTECA TRECE México (Game Snake Land S. y L.)
+http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_2_av-p.m3u8
+
+#EXTINF:-1,TV PERU HD (Lima – Peru) (Game Snake Land S. y L.)
+http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+
+#EXTINF:-1,TV PERu (Lima – Peru) (Game Snake Land S. y L.)
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF:-1,TV PERu (Lima – Peru) (Game Snake Land S. y L.)
+https://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF:-1,TV PERu 7.3 (Lima – Peru) (Game Snake Land S. y L.)
+http://cdnh15.iblups.com/hls/RMuwrdk7M9.m3u8
+
+#EXTINF:-1,CNN (Noticias Chile) (Game Snake Land S. y L.)
+http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
+
+#EXTINF:-1,CNN (Noticias Chile) (Game Snake Land S. y L.)
+http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream2/chunks.m3u8
+
+#EXTINF:-1,CANAL CNC ESTRELLA TV (Quibdó Colombia) (Game Snake Land S. y L.)
+http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/cncquibdo.m3u8
+
+#EXTINF:-1,CANAL CNC (Pasto Colombia) (Game Snake Land S. y L.)
+http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1,TELEENVIGADO (Envigado Colombia) (Game Snake Land S. y L.)
+http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
+
+#EXTINF:-1,SON POPULAR (Música Colombia) (Game Snake Land S. y L.)
+http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/popular.m3u8
+
+#EXTINF:-1,tvg-logo="H3cPpIc.png"  CHV [SD]
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
+
+#EXTINF:-1,tvg-logo="HqKYZvm.png"  Canal 13 [SD]
+http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?
+
+#EXTINF:-1,tvg-logo="6RSsii5.png"  T13 Movil [SD]
+http://cdn.ztreaming.com/t13vivo3/t13vivo3.m3u8
+
+#EXTINF:-1,tvg-logo="Dd9PMar.png"  CNN Chile [HD] (Mirror USA)
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="D3m8gI2.png"  24 Horas [SD]
+http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
+
+#EXTINF:-1,tvg-logo="Bd09LnA.png"  UCV Gran Valparaíso [HD]
+http://wow2.cl.digitalproserver.com/ucvtv2/ucvtv2vivo/ucvtv2.smil/chunklist_w1705024129_b828000.m3u8
+
+#EXTINF:-1,tvg-logo="bsrVp3u.png"  NIU TV [HD]
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
+
+#EXTINF:-1,tvg-logo="tZ3gJiP.png"  Canal 9 [SD] (Concepcion)
+http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="ozCnnDg.png"  TV Senado [HD]
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
+
+#EXTINF:-1,tvg-logo="Xlela3f.jpg"  Poder Judicial TV [HD]
+http://unlimited2-cl.digitalproserver.com/judicial2/judicial2.smil/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="KO9XhLU.png"  Sporting [HD]
+http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="ANeUy23.png"  Kino (miercoles y domingo) [SD]
+http://unlimited2-cl.digitalproserver.com/loteria/loteria.smil/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="EwubKy5.png" Tele13 Radio (TV) (103.3 FM)
+http://cdn.ztreaming.com/t13radio/mobile.m3u8
+
+#EXTINF:-1,tvg-logo="PtLIrrx.png"  Holvoet TV (Atacama)
+http://unlimited5-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
+
+#EXTINF:-1,tvg-logo=""  Desierto de Atacama TV (Atacama)
+http://unlimited6-cl.dps.live/desiertotv/desiertotv.smil/playlist.m3u8
+
+#EXTINF:-1,tvg-logo=""  Atacama TV (Copiapo)
+http://cdn.ztreaming.com/tustreaming/live2/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="jA7qtts.png"  Canal 2 de San Antonio [HD]
+http://video.crearchile.com:8080/live/canal2.mp4/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="Fh9eVvs.png"  Sexta Vision (Rancagua)
+http://cl.streaminghd.cl/carlos132/carlos132/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="tZ3gJiP.png"  Canal 9 [HD] (Concepcion)
+http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8#1
+
+#EXTINF:-1,tvg-logo="Od3BtZD.png"  Campus TV [HD] (U. de Talca)
+http://unlimited1-cl.dps.live/campustv/campustv.smil/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="VhOolgs.png"  El Pinguino [SD] (Punta Arenas)
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/livestream.m3u8
+
+#EXTINF:-1,tvg-logo="VhOolgs.png"  El Pinguino [HD] (Punta Arenas)
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
+
+#EXTINF:-1,tvg-logo="p7FPIgv.png"  Umag TV [SD] (Punta Arenas)
+http://cl.origin.grupoz.cl:1935/tser5/live/playlist.m3u8
